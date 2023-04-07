@@ -1,0 +1,10 @@
+{
+	"input":{
+		"file":"C:/Users/skamb/Documents/College/IS389/salt_PSR.bib",
+		"encoding":"utf-8"
+	},
+	"neo4j":{
+		"link":"",
+		"password":""
+	}
+}
