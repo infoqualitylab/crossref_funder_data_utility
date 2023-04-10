@@ -7,8 +7,9 @@ How to use:
 - Inlcude the encoding of the file
 - If you do not want a visualization, leave the neo4j parameters blank in the config file
 - Fill out neo4j database link and key. Results can then be seen in the database
-- Once configured, double click the exe to execute
-- Statistics results are in the resuslts.txt file
+- Once configured, open the jupyter notebook file and ensure all dependencies are setup
+- To run navigate to "cell", and then "run all"
+- Statistics results are in the notebook
 - Output csv is in the funders.csv file
 
 Note:
