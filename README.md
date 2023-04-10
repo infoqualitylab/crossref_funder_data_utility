@@ -20,7 +20,7 @@ Note:
   - date
   - doi
   
-  Code references:
+Code references:
   - Python file write. (n.d.). Retrieved April 7, 2023, from https://www.w3schools.com/python/python_file_write.asp 
   - pandas.DataFrame.to_csv - pandas 2.0.0 documentation. (n.d.). Retrieved April 7, 2023, from https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_csv.html 
   - Swagger UI. (n.d.). Retrieved April 7, 2023, from https://api.crossref.org/swagger-ui/index.html 
