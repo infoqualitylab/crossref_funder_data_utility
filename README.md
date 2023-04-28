@@ -28,7 +28,12 @@ Note on Neo4j: If you would like to learn how to set up a Neo4j database for vie
 1. Open ipnyb file in jupyter notebook.
 2. Navigate to run and select run all.
 
-This will execute the code in its entirity. Note that the Neo4j portion will be skipped if details have not been entered. Statistical results can be viewed in the notebook itself by scrolling down. A csv file with the funding data will also be generated in the same folder the code is in.
+This will execute the code in its entirity. Note that the Neo4j portion will be skipped if details have not been entered. Statistical results can be viewed in the notebook itself by scrolling down. A csv file with the funding data will also be generated in the same folder the code is in. Some sample data has been provided in the "Data" folder to allow you to test the code.
+
+Data Sources:
+- Clarke, Caitlin; Lischwe Mueller, Natalie; Joshi, Manasi Ballal; Fu, Yuanxi; Schneider, Jodi (2022): The Inclusion Network of 27 Review Articles Published between 2013-2018 Investigating the Relationship Between Physical Activity and Depressive Symptoms. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-4614455_V2 
+- Fu, Yuanxi; Hsiao, Tzu-Kun; Joshi, Manasi Ballal (2022): The Salt Controversy Systematic Review Reports and Primary Study Reports Network Dataset . University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-6128763_V2 
+
   
 Code references:
   - Python file write. (n.d.). Retrieved April 7, 2023, from https://www.w3schools.com/python/python_file_write.asp 
